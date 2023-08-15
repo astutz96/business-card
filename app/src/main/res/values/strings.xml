@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Business Card</string>
+    <string name="phone_number">1-(260)-350-8062</string>
+    <string name="email">astutzman.dev@gmail.com</string>
+    <string name="socials_link">\@AndroidDev</string>
 </resources>
